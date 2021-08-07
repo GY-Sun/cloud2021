@@ -73,6 +73,6 @@ public class OrderController {
   }
 
   public void gg(){
-
+    log.info("我最帅啊");
   }
 }
