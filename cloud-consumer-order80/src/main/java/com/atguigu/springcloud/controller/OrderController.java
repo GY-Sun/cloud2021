@@ -72,4 +72,7 @@ public class OrderController {
     return restTemplate.getForObject(uri+"/payment/lb",String.class);
   }
 
+  public void gg(){
+
+  }
 }
