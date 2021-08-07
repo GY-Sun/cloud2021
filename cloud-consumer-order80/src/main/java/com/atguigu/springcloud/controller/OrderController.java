@@ -75,4 +75,7 @@ public class OrderController {
   public void gg(){
     log.info("我最帅啊");
   }
+  public void gg1(){
+    log.info("master test");
+  }
 }
